@@ -6,5 +6,6 @@ The folder  Genetic_Betas and Genetic_maxones were codes based in genetic algori
 
 the folder ACOp is an algorithm base in ant colony optimization.
 
-PSO_p folder is a algorithm attemt PSO. For the moment it does not work.
+Particle swap optimizacion is work fine now solve a simple ecuation.
+
 And finally the regresion s only a simple code which have the solution with simple lineal regresion.
